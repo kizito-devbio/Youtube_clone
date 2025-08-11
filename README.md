@@ -20,6 +20,6 @@ Includes **media queries** for mobile, tablet, and desktop layouts.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/youtube-clone.git
+   git clone https://github.com/kizito-devbio/youtube_clone.git
 
 2. Open index.html in your browser.
